@@ -1,0 +1,18 @@
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\Новая папка\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\Новая папка\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\Новая папка\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\Новая папка\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\Новая папка\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\student\OneDrive\Документы\мур\RoomLibrary\Новая папка\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
+C:\Users\student\Documents\мур\RoomExample\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\student\Documents\мур\RoomExample\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\student\Documents\мур\RoomExample\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\student\Documents\мур\RoomExample\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\мур\RoomExample\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\student\Documents\мур\RoomExample\RoomLibrary\obj\Debug\RoomLibrary.pdb
